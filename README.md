@@ -9,6 +9,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on ... 
 -->
 - 🌱 I’m currently learning to contribute to open source projects.
+  <img align="right" alt="GIF" src="https://github.com/sam-v-jose/sam-v-jose/blob/main/code.gif?raw=true" width="500" height="320" />
 - LinkedIn - <a href="https://www.linkedin.com/in/sam-v-jose/" target="_blank" rel="noopener noreferrer"><img width="22" height="22" border="0" align="center"  src="linkedin.png"/></a>
 <!--
 - 👯 I’m looking to collaborate on ...
